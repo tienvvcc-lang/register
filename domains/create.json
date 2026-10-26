@@ -1,9 +1,14 @@
 {
-  "owner": {
-    "username": "VaibhavSys",
-    "email": "vaibhavsys@protonmail.com"
-  },
-  "records": {
-    "URL": "https://factory.is-a.dev"
-  }
+    "owner": {
+        "username": "tienvvcc-lang",
+        "email": "tienvvcc@gmail.com"
+    },
+    "record": {
+        "CNAME": "quan-ly-dt-226.vercel.app"
+    },
+    "subdomains": {
+        "_vercel": {
+            "TXT": ["vc-domain-verify=quan-ly-dt-226.is-a.dev,93c6639560f781610575"]
+        }
+    }
 }
